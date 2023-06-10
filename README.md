@@ -1,5 +1,5 @@
-- 👋  Sou  Laerte  thiago sou  frond-end
-- 👀  sou formado em analise e desenvolvimento de sistema (ADS), faço Pós Graduação Especialização em Especialização em Tecnologia da Informação e Inovação.
+- 👋  Sou  Laerte  thiago sou desenvolvedor frond-end
+- 👀  sou formado em tecnologo em analise e desenvolvimento de sistema (ADS)
 
 
 
